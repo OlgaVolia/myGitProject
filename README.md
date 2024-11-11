@@ -1,4 +1,5 @@
 This is documentation
 
 This is an automation project based on Maven1
-there is src folder with dashboard and homepage folders
+
+I made this change to test login functionality
